@@ -1,0 +1,3 @@
+
+resolve the vertical offset
+=> white-space: nowrap  (not no-wrap)
